@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivenciarGenerateOrder", "V
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VivenciarGenerateOrder.Infra", "VivenciarGenerateOrder.Infra\VivenciarGenerateOrder.Infra.csproj", "{0B4DA4EA-95A6-4289-942F-E99C2715A15B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivenciarGenerateOrder.Domain", "VivenciarGenerateOrder.Domain\VivenciarGenerateOrder.Domain.csproj", "{80D79B8E-254D-415B-A397-B940AFB169EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B4DA4EA-95A6-4289-942F-E99C2715A15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B4DA4EA-95A6-4289-942F-E99C2715A15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B4DA4EA-95A6-4289-942F-E99C2715A15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D79B8E-254D-415B-A397-B940AFB169EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D79B8E-254D-415B-A397-B940AFB169EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D79B8E-254D-415B-A397-B940AFB169EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D79B8E-254D-415B-A397-B940AFB169EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
