@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/VivenciarGenerateOrder.Infra/VivenciarGenerateOrder.db-wal
+/VivenciarGenerateOrder.Infra/VivenciarGenerateOrder.db-shm
+/VivenciarGenerateOrder.Infra/VivenciarGenerateOrder.db
